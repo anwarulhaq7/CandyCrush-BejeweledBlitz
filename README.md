@@ -1,6 +1,7 @@
 # CandyCrush-BejeweledBlitz
 
 A simple game built in C++ Windows Console.
+No images used for front-end.
 
 ![Project Logo](bb.png)
 
